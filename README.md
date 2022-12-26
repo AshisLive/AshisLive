@@ -1,9 +1,9 @@
 # Hello World!...
 
 - 👋 Hi, I’m Ashutosh Kumar
-- 👀 I’m interested in Backend development envirnment
+- 👀 I’m interested in Frontend and Backend development envirnment
 - 🌱 I’m currently learning cloud computing and storage
-- 💞️ I’m looking to collaborate on backend web development envernment
+- 💞️ I’m looking to collaborate on Frontend and Backend web development envernment
 - 📫 How to reach me I am avilable on Linkedin and twitter
 
 <!---
